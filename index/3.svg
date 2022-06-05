@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="400" height="400" viewBox="0 0 400 400" xml:space="preserve">
+<desc>Created with Fabric.js 3.6.2</desc>
+<defs>
+</defs>
+<g transform="matrix(6.25 0 0 6.25 200 200)" id="dribbble"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  transform=" translate(-16, -16)" d="M 16 0 A 16 16 0 0 0 0 16 A 16 16 0 0 0 16 32 A 16 16 0 0 0 32 16 A 16 16 0 0 0 16 0 M 5 11.5 A 12 12 0 0 1 11 5 A 46 46 0 0 1 13.5 9.25 A 46 46 0 0 1 5 11.5 M 15 4 A 12 12 0 0 1 21.5 5.25 A 46 46 0 0 1 17 7.75 A 50 50 0 0 0 15 4 M 4 16 A 50 50 0 0 0 15 13 A 46 46 0 0 1 16 15.5 A 26 26 0 0 0 6 22.5 A 12 12 0 0 1 4 16 M 18.5 11.5 A 50 50 0 0 0 25 8 A 12 12 0 0 1 28 13.75 A 26 26 0 0 0 19.75 14.5 A 50 50 0 0 0 18.5 11.5 M 17 19.5 A 46 46 0 0 1 18 28 A 12 12 0 0 1 8.75 25.5 A 22 22 0 0 1 17 19.5 M 20.75 18.25 A 22 22 0 0 1 28 17.75 A 12 12 0 0 1 22 26.5 A 50 50 0 0 0 20.75 18.25" stroke-linecap="round" />
+</g>
+</svg>
